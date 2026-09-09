@@ -1,0 +1,13 @@
+# Cache de Python y Jupyter Notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+.venv/
+venv/
+env/
