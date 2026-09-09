@@ -33,6 +33,10 @@ Por último, la dimensión dm_candidato, donde se aisla la información que iden
 
 El esquema se manejó de esa manera para darle prioridad o enfocar los datos a los resultados y consignas que deseamos generar más adelante. 
 
+# Visualizaciones 
+
+![Graficas solicitadas](visualizaciones.png)
+
 # Instrucciones SetUp
 
 Para correr este proyecto en tu máquina local, solo sigue estos pasos:
